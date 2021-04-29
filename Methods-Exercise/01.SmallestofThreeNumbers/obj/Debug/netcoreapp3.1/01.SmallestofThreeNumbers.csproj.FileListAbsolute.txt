@@ -1,0 +1,13 @@
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.exe
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.deps.json
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.runtimeconfig.json
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.runtimeconfig.dev.json
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.dll
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.pdb
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.csprojAssemblyReference.cache
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.AssemblyInfoInputs.cache
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.AssemblyInfo.cs
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.dll
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.pdb
+D:\Ellie\Methods-Exercise\01.SmallestofThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestofThreeNumbers.genruntimeconfig.cache

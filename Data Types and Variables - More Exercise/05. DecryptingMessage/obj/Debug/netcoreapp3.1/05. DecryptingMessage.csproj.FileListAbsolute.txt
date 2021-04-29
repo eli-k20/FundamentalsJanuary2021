@@ -1,0 +1,12 @@
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\bin\Debug\netcoreapp3.1\05. DecryptingMessage.exe
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\bin\Debug\netcoreapp3.1\05. DecryptingMessage.deps.json
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\bin\Debug\netcoreapp3.1\05. DecryptingMessage.runtimeconfig.json
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\bin\Debug\netcoreapp3.1\05. DecryptingMessage.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\bin\Debug\netcoreapp3.1\05. DecryptingMessage.dll
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\bin\Debug\netcoreapp3.1\05. DecryptingMessage.pdb
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\obj\Debug\netcoreapp3.1\05. DecryptingMessage.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\obj\Debug\netcoreapp3.1\05. DecryptingMessage.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\obj\Debug\netcoreapp3.1\05. DecryptingMessage.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\obj\Debug\netcoreapp3.1\05. DecryptingMessage.dll
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\obj\Debug\netcoreapp3.1\05. DecryptingMessage.pdb
+D:\Ellie\Data Types and Variables - More Exercise\05. DecryptingMessage\obj\Debug\netcoreapp3.1\05. DecryptingMessage.genruntimeconfig.cache

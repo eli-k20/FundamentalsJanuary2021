@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\bin\Debug\netcoreapp3.1\08. CondenseArraytoNumber.exe
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\bin\Debug\netcoreapp3.1\08. CondenseArraytoNumber.deps.json
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\bin\Debug\netcoreapp3.1\08. CondenseArraytoNumber.runtimeconfig.json
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\bin\Debug\netcoreapp3.1\08. CondenseArraytoNumber.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\bin\Debug\netcoreapp3.1\08. CondenseArraytoNumber.dll
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\bin\Debug\netcoreapp3.1\08. CondenseArraytoNumber.pdb
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.dll
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.pdb
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.genruntimeconfig.cache
+D:\Ellie\Arrays - Lab\08. CondenseArraytoNumber\obj\Debug\netcoreapp3.1\08. CondenseArraytoNumber.csprojAssemblyReference.cache

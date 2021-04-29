@@ -1,0 +1,12 @@
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.exe
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.deps.json
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.runtimeconfig.json
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.runtimeconfig.dev.json
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.dll
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.pdb
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.AssemblyInfo.cs
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.dll
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.pdb
+D:\Ellie\Lists - Lab\05. RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesandReverse.genruntimeconfig.cache

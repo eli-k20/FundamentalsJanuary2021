@@ -1,0 +1,13 @@
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.exe
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.deps.json
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.json
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.dev.json
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.dll
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.pdb
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csprojAssemblyReference.cache
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfoInputs.cache
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfo.cs
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csproj.CoreCompileInputs.cache
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.dll
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.pdb
+D:\Ellie\04.ProgrammingFundamentalsMidExam\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.genruntimeconfig.cache

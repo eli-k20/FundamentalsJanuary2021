@@ -1,0 +1,13 @@
+D:\Ellie\Lists-MoreExercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.exe
+D:\Ellie\Lists-MoreExercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.deps.json
+D:\Ellie\Lists-MoreExercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.json
+D:\Ellie\Lists-MoreExercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.dev.json
+D:\Ellie\Lists-MoreExercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.dll
+D:\Ellie\Lists-MoreExercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.pdb
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csprojAssemblyReference.cache
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfoInputs.cache
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfo.cs
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.dll
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.pdb
+D:\Ellie\Lists-MoreExercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.genruntimeconfig.cache

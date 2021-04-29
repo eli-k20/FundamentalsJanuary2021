@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.exe
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.deps.json
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.dll
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\bin\Debug\netcoreapp3.1\10.SoftUniExamResults.pdb
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.dll
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.pdb
+D:\Ellie\AssociativeArrays-Exercise\10.SoftUniExamResults\obj\Debug\netcoreapp3.1\10.SoftUniExamResults.genruntimeconfig.cache

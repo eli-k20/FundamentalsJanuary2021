@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06. TriplesofLatinLetters.exe
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06. TriplesofLatinLetters.deps.json
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06. TriplesofLatinLetters.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06. TriplesofLatinLetters.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06. TriplesofLatinLetters.dll
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06. TriplesofLatinLetters.pdb
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.dll
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.pdb
+D:\Ellie\Data Types and Variables - Exercise\06. TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06. TriplesofLatinLetters.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.exe
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.deps.json
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.json
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.dev.json
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.dll
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.pdb
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csprojAssemblyReference.cache
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfoInputs.cache
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfo.cs
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csproj.CoreCompileInputs.cache
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.dll
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.pdb
+D:\Ellie\05.ProgrammingFundamentalsMidExam\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.genruntimeconfig.cache

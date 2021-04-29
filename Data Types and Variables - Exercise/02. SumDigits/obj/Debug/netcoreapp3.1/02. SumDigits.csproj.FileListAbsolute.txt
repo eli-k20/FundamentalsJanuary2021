@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.exe
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.deps.json
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.dll
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\bin\Debug\netcoreapp3.1\02. SumDigits.pdb
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.dll
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.pdb
+D:\Ellie\Data Types and Variables - Exercise\02. SumDigits\obj\Debug\netcoreapp3.1\02. SumDigits.genruntimeconfig.cache

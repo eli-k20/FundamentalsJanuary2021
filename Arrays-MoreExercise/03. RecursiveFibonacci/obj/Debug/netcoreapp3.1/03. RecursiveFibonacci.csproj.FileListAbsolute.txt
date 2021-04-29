@@ -1,0 +1,13 @@
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\bin\Debug\netcoreapp3.1\03. RecursiveFibonacci.exe
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\bin\Debug\netcoreapp3.1\03. RecursiveFibonacci.deps.json
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\bin\Debug\netcoreapp3.1\03. RecursiveFibonacci.runtimeconfig.json
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\bin\Debug\netcoreapp3.1\03. RecursiveFibonacci.runtimeconfig.dev.json
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\bin\Debug\netcoreapp3.1\03. RecursiveFibonacci.dll
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\bin\Debug\netcoreapp3.1\03. RecursiveFibonacci.pdb
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.csprojAssemblyReference.cache
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.AssemblyInfoInputs.cache
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.AssemblyInfo.cs
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.dll
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.pdb
+D:\Ellie\Arrays-MoreExercise\03. RecursiveFibonacci\obj\Debug\netcoreapp3.1\03. RecursiveFibonacci.genruntimeconfig.cache

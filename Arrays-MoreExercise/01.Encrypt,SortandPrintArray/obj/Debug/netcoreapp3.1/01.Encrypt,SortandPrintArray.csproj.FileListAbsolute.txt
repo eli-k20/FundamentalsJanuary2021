@@ -1,0 +1,13 @@
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.exe
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.deps.json
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.runtimeconfig.json
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.runtimeconfig.dev.json
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.dll
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\bin\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.pdb
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.csprojAssemblyReference.cache
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.AssemblyInfoInputs.cache
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.AssemblyInfo.cs
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.dll
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.pdb
+D:\Ellie\Arrays-MoreExercise\01.Encrypt,SortandPrintArray\obj\Debug\netcoreapp3.1\01.Encrypt,SortandPrintArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.exe
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.deps.json
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.json
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.dev.json
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.dll
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csprojAssemblyReference.cache
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfoInputs.cache
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfo.cs
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.CoreCompileInputs.cache
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.dll
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+D:\Ellie\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.genruntimeconfig.cache

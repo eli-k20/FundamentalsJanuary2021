@@ -1,0 +1,12 @@
+D:\Ellie\Methods-Exercise\10. TopNumber\bin\Debug\netcoreapp3.1\10. TopNumber.exe
+D:\Ellie\Methods-Exercise\10. TopNumber\bin\Debug\netcoreapp3.1\10. TopNumber.deps.json
+D:\Ellie\Methods-Exercise\10. TopNumber\bin\Debug\netcoreapp3.1\10. TopNumber.runtimeconfig.json
+D:\Ellie\Methods-Exercise\10. TopNumber\bin\Debug\netcoreapp3.1\10. TopNumber.runtimeconfig.dev.json
+D:\Ellie\Methods-Exercise\10. TopNumber\bin\Debug\netcoreapp3.1\10. TopNumber.dll
+D:\Ellie\Methods-Exercise\10. TopNumber\bin\Debug\netcoreapp3.1\10. TopNumber.pdb
+D:\Ellie\Methods-Exercise\10. TopNumber\obj\Debug\netcoreapp3.1\10. TopNumber.AssemblyInfoInputs.cache
+D:\Ellie\Methods-Exercise\10. TopNumber\obj\Debug\netcoreapp3.1\10. TopNumber.AssemblyInfo.cs
+D:\Ellie\Methods-Exercise\10. TopNumber\obj\Debug\netcoreapp3.1\10. TopNumber.csproj.CoreCompileInputs.cache
+D:\Ellie\Methods-Exercise\10. TopNumber\obj\Debug\netcoreapp3.1\10. TopNumber.dll
+D:\Ellie\Methods-Exercise\10. TopNumber\obj\Debug\netcoreapp3.1\10. TopNumber.pdb
+D:\Ellie\Methods-Exercise\10. TopNumber\obj\Debug\netcoreapp3.1\10. TopNumber.genruntimeconfig.cache

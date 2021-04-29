@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\bin\Debug\netcoreapp3.1\02. FromLefttoTheRight.exe
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\bin\Debug\netcoreapp3.1\02. FromLefttoTheRight.deps.json
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\bin\Debug\netcoreapp3.1\02. FromLefttoTheRight.runtimeconfig.json
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\bin\Debug\netcoreapp3.1\02. FromLefttoTheRight.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\bin\Debug\netcoreapp3.1\02. FromLefttoTheRight.dll
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\bin\Debug\netcoreapp3.1\02. FromLefttoTheRight.pdb
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.dll
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.pdb
+D:\Ellie\Data Types and Variables - More Exercise\02. FromLefttoTheRight\obj\Debug\netcoreapp3.1\02. FromLefttoTheRight.genruntimeconfig.cache

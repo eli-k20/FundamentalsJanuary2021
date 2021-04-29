@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.exe
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.deps.json
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.dll
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.pdb
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.dll
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.pdb
+D:\Ellie\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.exe
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.deps.json
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.json
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.dev.json
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.csprojAssemblyReference.cache
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfo.cs
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+D:\Ellie\TextProcessing-Exercise\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.genruntimeconfig.cache

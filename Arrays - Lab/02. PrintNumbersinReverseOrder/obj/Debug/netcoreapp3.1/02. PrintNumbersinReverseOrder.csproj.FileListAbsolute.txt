@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.exe
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.deps.json
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.runtimeconfig.json
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.dll
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.pdb
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.dll
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.pdb
+D:\Ellie\Arrays - Lab\02. PrintNumbersinReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersinReverseOrder.genruntimeconfig.cache

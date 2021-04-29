@@ -1,0 +1,13 @@
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.exe
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.deps.json
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.runtimeconfig.json
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.runtimeconfig.dev.json
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.dll
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\netcoreapp3.1\06.ExtractEmails.pdb
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.csprojAssemblyReference.cache
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.AssemblyInfoInputs.cache
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.AssemblyInfo.cs
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.dll
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.pdb
+D:\Ellie\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\netcoreapp3.1\06.ExtractEmails.genruntimeconfig.cache

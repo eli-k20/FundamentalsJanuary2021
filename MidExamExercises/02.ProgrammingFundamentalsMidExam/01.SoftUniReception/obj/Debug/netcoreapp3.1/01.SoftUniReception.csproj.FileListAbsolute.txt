@@ -1,0 +1,13 @@
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.exe
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.deps.json
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.json
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.dev.json
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.dll
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csprojAssemblyReference.cache
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfoInputs.cache
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfo.cs
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csproj.CoreCompileInputs.cache
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.dll
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+D:\Ellie\02.ProgrammingFundamentalsMidExam\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.genruntimeconfig.cache

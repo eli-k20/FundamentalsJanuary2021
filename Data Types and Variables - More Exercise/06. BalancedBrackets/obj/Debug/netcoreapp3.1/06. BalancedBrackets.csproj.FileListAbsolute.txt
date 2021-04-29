@@ -1,0 +1,12 @@
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\bin\Debug\netcoreapp3.1\06. BalancedBrackets.exe
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\bin\Debug\netcoreapp3.1\06. BalancedBrackets.deps.json
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\bin\Debug\netcoreapp3.1\06. BalancedBrackets.runtimeconfig.json
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\bin\Debug\netcoreapp3.1\06. BalancedBrackets.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\bin\Debug\netcoreapp3.1\06. BalancedBrackets.dll
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\bin\Debug\netcoreapp3.1\06. BalancedBrackets.pdb
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\obj\Debug\netcoreapp3.1\06. BalancedBrackets.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\obj\Debug\netcoreapp3.1\06. BalancedBrackets.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\obj\Debug\netcoreapp3.1\06. BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\obj\Debug\netcoreapp3.1\06. BalancedBrackets.dll
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\obj\Debug\netcoreapp3.1\06. BalancedBrackets.pdb
+D:\Ellie\Data Types and Variables - More Exercise\06. BalancedBrackets\obj\Debug\netcoreapp3.1\06. BalancedBrackets.genruntimeconfig.cache

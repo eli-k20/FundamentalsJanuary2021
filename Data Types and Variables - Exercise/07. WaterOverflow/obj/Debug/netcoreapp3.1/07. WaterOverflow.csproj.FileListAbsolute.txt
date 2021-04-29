@@ -1,0 +1,12 @@
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\bin\Debug\netcoreapp3.1\07. WaterOverflow.exe
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\bin\Debug\netcoreapp3.1\07. WaterOverflow.deps.json
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\bin\Debug\netcoreapp3.1\07. WaterOverflow.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\bin\Debug\netcoreapp3.1\07. WaterOverflow.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\bin\Debug\netcoreapp3.1\07. WaterOverflow.dll
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\bin\Debug\netcoreapp3.1\07. WaterOverflow.pdb
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\obj\Debug\netcoreapp3.1\07. WaterOverflow.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\obj\Debug\netcoreapp3.1\07. WaterOverflow.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\obj\Debug\netcoreapp3.1\07. WaterOverflow.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\obj\Debug\netcoreapp3.1\07. WaterOverflow.dll
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\obj\Debug\netcoreapp3.1\07. WaterOverflow.pdb
+D:\Ellie\Data Types and Variables - Exercise\07. WaterOverflow\obj\Debug\netcoreapp3.1\07. WaterOverflow.genruntimeconfig.cache

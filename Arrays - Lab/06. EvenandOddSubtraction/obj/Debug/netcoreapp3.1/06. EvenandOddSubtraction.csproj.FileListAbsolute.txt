@@ -1,0 +1,12 @@
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06. EvenandOddSubtraction.exe
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06. EvenandOddSubtraction.deps.json
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06. EvenandOddSubtraction.runtimeconfig.json
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06. EvenandOddSubtraction.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06. EvenandOddSubtraction.dll
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06. EvenandOddSubtraction.pdb
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06. EvenandOddSubtraction.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06. EvenandOddSubtraction.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06. EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06. EvenandOddSubtraction.dll
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06. EvenandOddSubtraction.pdb
+D:\Ellie\Arrays - Lab\06. EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06. EvenandOddSubtraction.genruntimeconfig.cache

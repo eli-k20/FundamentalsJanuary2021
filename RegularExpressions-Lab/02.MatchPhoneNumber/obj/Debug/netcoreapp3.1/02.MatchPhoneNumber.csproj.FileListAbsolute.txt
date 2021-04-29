@@ -1,0 +1,13 @@
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\netcoreapp3.1\02.MatchPhoneNumber.exe
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\netcoreapp3.1\02.MatchPhoneNumber.deps.json
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\netcoreapp3.1\02.MatchPhoneNumber.runtimeconfig.json
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\netcoreapp3.1\02.MatchPhoneNumber.runtimeconfig.dev.json
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\netcoreapp3.1\02.MatchPhoneNumber.dll
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\netcoreapp3.1\02.MatchPhoneNumber.pdb
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.csprojAssemblyReference.cache
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.AssemblyInfo.cs
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.dll
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.pdb
+D:\Ellie\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\netcoreapp3.1\02.MatchPhoneNumber.genruntimeconfig.cache

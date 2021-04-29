@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Exercise\07. AppendArrays\bin\Debug\netcoreapp3.1\07. AppendArrays.exe
+D:\Ellie\Lists - Exercise\07. AppendArrays\bin\Debug\netcoreapp3.1\07. AppendArrays.deps.json
+D:\Ellie\Lists - Exercise\07. AppendArrays\bin\Debug\netcoreapp3.1\07. AppendArrays.runtimeconfig.json
+D:\Ellie\Lists - Exercise\07. AppendArrays\bin\Debug\netcoreapp3.1\07. AppendArrays.runtimeconfig.dev.json
+D:\Ellie\Lists - Exercise\07. AppendArrays\bin\Debug\netcoreapp3.1\07. AppendArrays.dll
+D:\Ellie\Lists - Exercise\07. AppendArrays\bin\Debug\netcoreapp3.1\07. AppendArrays.pdb
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.csprojAssemblyReference.cache
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.AssemblyInfo.cs
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.dll
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.pdb
+D:\Ellie\Lists - Exercise\07. AppendArrays\obj\Debug\netcoreapp3.1\07. AppendArrays.genruntimeconfig.cache

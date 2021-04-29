@@ -1,0 +1,12 @@
+D:\Ellie\Methods-Exercise\07. NxNMatrix\bin\Debug\netcoreapp3.1\07. NxNMatrix.exe
+D:\Ellie\Methods-Exercise\07. NxNMatrix\bin\Debug\netcoreapp3.1\07. NxNMatrix.deps.json
+D:\Ellie\Methods-Exercise\07. NxNMatrix\bin\Debug\netcoreapp3.1\07. NxNMatrix.runtimeconfig.json
+D:\Ellie\Methods-Exercise\07. NxNMatrix\bin\Debug\netcoreapp3.1\07. NxNMatrix.runtimeconfig.dev.json
+D:\Ellie\Methods-Exercise\07. NxNMatrix\bin\Debug\netcoreapp3.1\07. NxNMatrix.dll
+D:\Ellie\Methods-Exercise\07. NxNMatrix\bin\Debug\netcoreapp3.1\07. NxNMatrix.pdb
+D:\Ellie\Methods-Exercise\07. NxNMatrix\obj\Debug\netcoreapp3.1\07. NxNMatrix.AssemblyInfoInputs.cache
+D:\Ellie\Methods-Exercise\07. NxNMatrix\obj\Debug\netcoreapp3.1\07. NxNMatrix.AssemblyInfo.cs
+D:\Ellie\Methods-Exercise\07. NxNMatrix\obj\Debug\netcoreapp3.1\07. NxNMatrix.csproj.CoreCompileInputs.cache
+D:\Ellie\Methods-Exercise\07. NxNMatrix\obj\Debug\netcoreapp3.1\07. NxNMatrix.dll
+D:\Ellie\Methods-Exercise\07. NxNMatrix\obj\Debug\netcoreapp3.1\07. NxNMatrix.pdb
+D:\Ellie\Methods-Exercise\07. NxNMatrix\obj\Debug\netcoreapp3.1\07. NxNMatrix.genruntimeconfig.cache

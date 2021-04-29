@@ -1,0 +1,12 @@
+D:\Ellie\Lists - Lab\04. ListofProducts\bin\Debug\netcoreapp3.1\04. ListofProducts.exe
+D:\Ellie\Lists - Lab\04. ListofProducts\bin\Debug\netcoreapp3.1\04. ListofProducts.deps.json
+D:\Ellie\Lists - Lab\04. ListofProducts\bin\Debug\netcoreapp3.1\04. ListofProducts.runtimeconfig.json
+D:\Ellie\Lists - Lab\04. ListofProducts\bin\Debug\netcoreapp3.1\04. ListofProducts.runtimeconfig.dev.json
+D:\Ellie\Lists - Lab\04. ListofProducts\bin\Debug\netcoreapp3.1\04. ListofProducts.dll
+D:\Ellie\Lists - Lab\04. ListofProducts\bin\Debug\netcoreapp3.1\04. ListofProducts.pdb
+D:\Ellie\Lists - Lab\04. ListofProducts\obj\Debug\netcoreapp3.1\04. ListofProducts.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Lab\04. ListofProducts\obj\Debug\netcoreapp3.1\04. ListofProducts.AssemblyInfo.cs
+D:\Ellie\Lists - Lab\04. ListofProducts\obj\Debug\netcoreapp3.1\04. ListofProducts.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Lab\04. ListofProducts\obj\Debug\netcoreapp3.1\04. ListofProducts.dll
+D:\Ellie\Lists - Lab\04. ListofProducts\obj\Debug\netcoreapp3.1\04. ListofProducts.pdb
+D:\Ellie\Lists - Lab\04. ListofProducts\obj\Debug\netcoreapp3.1\04. ListofProducts.genruntimeconfig.cache

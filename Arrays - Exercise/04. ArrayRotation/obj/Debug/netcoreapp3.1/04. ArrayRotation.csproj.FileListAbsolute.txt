@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\bin\Debug\netcoreapp3.1\04. ArrayRotation.exe
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\bin\Debug\netcoreapp3.1\04. ArrayRotation.deps.json
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\bin\Debug\netcoreapp3.1\04. ArrayRotation.runtimeconfig.json
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\bin\Debug\netcoreapp3.1\04. ArrayRotation.runtimeconfig.dev.json
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\bin\Debug\netcoreapp3.1\04. ArrayRotation.dll
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\bin\Debug\netcoreapp3.1\04. ArrayRotation.pdb
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.AssemblyInfo.cs
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.dll
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.pdb
+D:\Ellie\Arrays - Exercise\04. ArrayRotation\obj\Debug\netcoreapp3.1\04. ArrayRotation.genruntimeconfig.cache

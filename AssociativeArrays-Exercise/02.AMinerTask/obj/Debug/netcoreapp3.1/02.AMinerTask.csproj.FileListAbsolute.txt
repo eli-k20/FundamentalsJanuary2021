@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.exe
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.deps.json
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.dll
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.pdb
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.dll
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.pdb
+D:\Ellie\AssociativeArrays-Exercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.genruntimeconfig.cache

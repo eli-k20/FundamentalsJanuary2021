@@ -1,0 +1,13 @@
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.exe
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.deps.json
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.json
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.dev.json
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.dll
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.pdb
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.csprojAssemblyReference.cache
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfoInputs.cache
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfo.cs
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.dll
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.pdb
+D:\Ellie\RegularExpressions-Lab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.genruntimeconfig.cache

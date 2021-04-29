@@ -1,0 +1,13 @@
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\bin\Debug\netcoreapp3.1\01.Furniture.exe
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\bin\Debug\netcoreapp3.1\01.Furniture.deps.json
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\bin\Debug\netcoreapp3.1\01.Furniture.runtimeconfig.json
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\bin\Debug\netcoreapp3.1\01.Furniture.runtimeconfig.dev.json
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\bin\Debug\netcoreapp3.1\01.Furniture.dll
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\bin\Debug\netcoreapp3.1\01.Furniture.pdb
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.csprojAssemblyReference.cache
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.AssemblyInfoInputs.cache
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.AssemblyInfo.cs
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.csproj.CoreCompileInputs.cache
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.dll
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.pdb
+D:\Ellie\RegularExpressions-Exercise\01.Furniture\obj\Debug\netcoreapp3.1\01.Furniture.genruntimeconfig.cache

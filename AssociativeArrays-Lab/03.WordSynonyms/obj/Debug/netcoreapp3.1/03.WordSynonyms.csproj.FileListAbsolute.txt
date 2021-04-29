@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.exe
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.deps.json
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.dll
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.dll
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+D:\Ellie\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.genruntimeconfig.cache

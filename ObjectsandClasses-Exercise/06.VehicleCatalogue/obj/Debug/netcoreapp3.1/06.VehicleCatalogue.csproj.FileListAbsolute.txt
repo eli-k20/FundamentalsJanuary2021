@@ -1,0 +1,13 @@
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.csprojAssemblyReference.cache
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.AssemblyInfo.cs
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.exe
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.deps.json
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.runtimeconfig.json
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.runtimeconfig.dev.json
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.dll
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.pdb
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.dll
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.pdb
+D:\Ellie\ObjectsandClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.genruntimeconfig.cache

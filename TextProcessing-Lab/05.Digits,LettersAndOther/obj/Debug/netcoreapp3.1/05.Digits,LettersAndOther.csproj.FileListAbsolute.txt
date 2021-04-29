@@ -1,0 +1,12 @@
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.exe
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.deps.json
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.runtimeconfig.json
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.runtimeconfig.dev.json
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.dll
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\netcoreapp3.1\05.Digits,LettersAndOther.pdb
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.AssemblyInfo.cs
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.dll
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.pdb
+D:\Ellie\TextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\netcoreapp3.1\05.Digits,LettersAndOther.genruntimeconfig.cache

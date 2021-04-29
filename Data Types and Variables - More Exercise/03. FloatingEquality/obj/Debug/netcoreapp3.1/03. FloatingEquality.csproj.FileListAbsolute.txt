@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\bin\Debug\netcoreapp3.1\03. FloatingEquality.exe
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\bin\Debug\netcoreapp3.1\03. FloatingEquality.deps.json
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\bin\Debug\netcoreapp3.1\03. FloatingEquality.runtimeconfig.json
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\bin\Debug\netcoreapp3.1\03. FloatingEquality.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\bin\Debug\netcoreapp3.1\03. FloatingEquality.dll
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\bin\Debug\netcoreapp3.1\03. FloatingEquality.pdb
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.dll
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.pdb
+D:\Ellie\Data Types and Variables - More Exercise\03. FloatingEquality\obj\Debug\netcoreapp3.1\03. FloatingEquality.genruntimeconfig.cache

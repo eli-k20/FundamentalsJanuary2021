@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Lab\03. MergingLists\bin\Debug\netcoreapp3.1\03. MergingLists.exe
+D:\Ellie\Lists - Lab\03. MergingLists\bin\Debug\netcoreapp3.1\03. MergingLists.deps.json
+D:\Ellie\Lists - Lab\03. MergingLists\bin\Debug\netcoreapp3.1\03. MergingLists.runtimeconfig.json
+D:\Ellie\Lists - Lab\03. MergingLists\bin\Debug\netcoreapp3.1\03. MergingLists.runtimeconfig.dev.json
+D:\Ellie\Lists - Lab\03. MergingLists\bin\Debug\netcoreapp3.1\03. MergingLists.dll
+D:\Ellie\Lists - Lab\03. MergingLists\bin\Debug\netcoreapp3.1\03. MergingLists.pdb
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.csprojAssemblyReference.cache
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.AssemblyInfo.cs
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.dll
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.pdb
+D:\Ellie\Lists - Lab\03. MergingLists\obj\Debug\netcoreapp3.1\03. MergingLists.genruntimeconfig.cache

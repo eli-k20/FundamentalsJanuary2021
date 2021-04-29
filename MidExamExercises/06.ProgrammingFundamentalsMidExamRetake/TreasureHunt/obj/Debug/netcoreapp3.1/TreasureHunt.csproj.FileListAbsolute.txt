@@ -1,0 +1,13 @@
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.exe
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.deps.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.dev.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.dll
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.pdb
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.csprojAssemblyReference.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfoInputs.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfo.cs
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.csproj.CoreCompileInputs.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.dll
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.pdb
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.exe
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.deps.json
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.json
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csprojAssemblyReference.cache
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+D:\Ellie\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.genruntimeconfig.cache

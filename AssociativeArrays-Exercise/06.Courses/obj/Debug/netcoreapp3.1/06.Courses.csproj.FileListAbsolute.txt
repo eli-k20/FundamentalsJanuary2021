@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.exe
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.deps.json
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.dll
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.pdb
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.dll
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.pdb
+D:\Ellie\AssociativeArrays-Exercise\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.genruntimeconfig.cache

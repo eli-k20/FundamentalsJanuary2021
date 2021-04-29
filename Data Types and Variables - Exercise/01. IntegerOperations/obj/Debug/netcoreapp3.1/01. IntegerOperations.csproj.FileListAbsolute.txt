@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\bin\Debug\netcoreapp3.1\01. IntegerOperations.exe
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\bin\Debug\netcoreapp3.1\01. IntegerOperations.deps.json
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\bin\Debug\netcoreapp3.1\01. IntegerOperations.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\bin\Debug\netcoreapp3.1\01. IntegerOperations.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\bin\Debug\netcoreapp3.1\01. IntegerOperations.dll
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\bin\Debug\netcoreapp3.1\01. IntegerOperations.pdb
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.dll
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.pdb
+D:\Ellie\Data Types and Variables - Exercise\01. IntegerOperations\obj\Debug\netcoreapp3.1\01. IntegerOperations.genruntimeconfig.cache

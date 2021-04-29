@@ -1,0 +1,13 @@
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\bin\Debug\netcoreapp3.1\04. FoldandSum.exe
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\bin\Debug\netcoreapp3.1\04. FoldandSum.deps.json
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\bin\Debug\netcoreapp3.1\04. FoldandSum.runtimeconfig.json
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\bin\Debug\netcoreapp3.1\04. FoldandSum.runtimeconfig.dev.json
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\bin\Debug\netcoreapp3.1\04. FoldandSum.dll
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\bin\Debug\netcoreapp3.1\04. FoldandSum.pdb
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.csprojAssemblyReference.cache
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.AssemblyInfoInputs.cache
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.AssemblyInfo.cs
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.dll
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.pdb
+D:\Ellie\Arrays-MoreExercise\04. FoldandSum\obj\Debug\netcoreapp3.1\04. FoldandSum.genruntimeconfig.cache

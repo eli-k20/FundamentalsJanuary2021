@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Exercise\05. TopIntegers\bin\Debug\netcoreapp3.1\05. TopIntegers.exe
+D:\Ellie\Arrays - Exercise\05. TopIntegers\bin\Debug\netcoreapp3.1\05. TopIntegers.deps.json
+D:\Ellie\Arrays - Exercise\05. TopIntegers\bin\Debug\netcoreapp3.1\05. TopIntegers.runtimeconfig.json
+D:\Ellie\Arrays - Exercise\05. TopIntegers\bin\Debug\netcoreapp3.1\05. TopIntegers.runtimeconfig.dev.json
+D:\Ellie\Arrays - Exercise\05. TopIntegers\bin\Debug\netcoreapp3.1\05. TopIntegers.dll
+D:\Ellie\Arrays - Exercise\05. TopIntegers\bin\Debug\netcoreapp3.1\05. TopIntegers.pdb
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.AssemblyInfo.cs
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.dll
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.pdb
+D:\Ellie\Arrays - Exercise\05. TopIntegers\obj\Debug\netcoreapp3.1\05. TopIntegers.genruntimeconfig.cache

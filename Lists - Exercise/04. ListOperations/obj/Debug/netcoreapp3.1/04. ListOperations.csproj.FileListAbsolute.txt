@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.exe
+D:\Ellie\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.deps.json
+D:\Ellie\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.runtimeconfig.json
+D:\Ellie\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.runtimeconfig.dev.json
+D:\Ellie\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.dll
+D:\Ellie\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.pdb
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.csprojAssemblyReference.cache
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.AssemblyInfo.cs
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.dll
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.pdb
+D:\Ellie\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.genruntimeconfig.cache

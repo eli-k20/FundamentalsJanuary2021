@@ -1,0 +1,12 @@
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.exe
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.deps.json
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.dll
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.dll
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+D:\Ellie\AssociativeArrays-Exercise\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.genruntimeconfig.cache

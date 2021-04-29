@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Exercise\06. CardsGame\bin\Debug\netcoreapp3.1\06. CardsGame.exe
+D:\Ellie\Lists - Exercise\06. CardsGame\bin\Debug\netcoreapp3.1\06. CardsGame.deps.json
+D:\Ellie\Lists - Exercise\06. CardsGame\bin\Debug\netcoreapp3.1\06. CardsGame.runtimeconfig.json
+D:\Ellie\Lists - Exercise\06. CardsGame\bin\Debug\netcoreapp3.1\06. CardsGame.runtimeconfig.dev.json
+D:\Ellie\Lists - Exercise\06. CardsGame\bin\Debug\netcoreapp3.1\06. CardsGame.dll
+D:\Ellie\Lists - Exercise\06. CardsGame\bin\Debug\netcoreapp3.1\06. CardsGame.pdb
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.csprojAssemblyReference.cache
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.AssemblyInfo.cs
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.dll
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.pdb
+D:\Ellie\Lists - Exercise\06. CardsGame\obj\Debug\netcoreapp3.1\06. CardsGame.genruntimeconfig.cache

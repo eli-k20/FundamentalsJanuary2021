@@ -1,0 +1,13 @@
+D:\Ellie\Lists-MoreExercise\05. DrumSet\bin\Debug\netcoreapp3.1\05. DrumSet.exe
+D:\Ellie\Lists-MoreExercise\05. DrumSet\bin\Debug\netcoreapp3.1\05. DrumSet.deps.json
+D:\Ellie\Lists-MoreExercise\05. DrumSet\bin\Debug\netcoreapp3.1\05. DrumSet.runtimeconfig.json
+D:\Ellie\Lists-MoreExercise\05. DrumSet\bin\Debug\netcoreapp3.1\05. DrumSet.runtimeconfig.dev.json
+D:\Ellie\Lists-MoreExercise\05. DrumSet\bin\Debug\netcoreapp3.1\05. DrumSet.dll
+D:\Ellie\Lists-MoreExercise\05. DrumSet\bin\Debug\netcoreapp3.1\05. DrumSet.pdb
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.csprojAssemblyReference.cache
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.AssemblyInfoInputs.cache
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.AssemblyInfo.cs
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.dll
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.pdb
+D:\Ellie\Lists-MoreExercise\05. DrumSet\obj\Debug\netcoreapp3.1\05. DrumSet.genruntimeconfig.cache

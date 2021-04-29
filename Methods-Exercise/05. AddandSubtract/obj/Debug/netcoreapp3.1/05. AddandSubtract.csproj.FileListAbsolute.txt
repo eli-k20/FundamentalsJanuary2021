@@ -1,0 +1,13 @@
+D:\Ellie\Methods-Exercise\05. AddandSubtract\bin\Debug\netcoreapp3.1\05. AddandSubtract.exe
+D:\Ellie\Methods-Exercise\05. AddandSubtract\bin\Debug\netcoreapp3.1\05. AddandSubtract.deps.json
+D:\Ellie\Methods-Exercise\05. AddandSubtract\bin\Debug\netcoreapp3.1\05. AddandSubtract.runtimeconfig.json
+D:\Ellie\Methods-Exercise\05. AddandSubtract\bin\Debug\netcoreapp3.1\05. AddandSubtract.runtimeconfig.dev.json
+D:\Ellie\Methods-Exercise\05. AddandSubtract\bin\Debug\netcoreapp3.1\05. AddandSubtract.dll
+D:\Ellie\Methods-Exercise\05. AddandSubtract\bin\Debug\netcoreapp3.1\05. AddandSubtract.pdb
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.csprojAssemblyReference.cache
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.AssemblyInfoInputs.cache
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.AssemblyInfo.cs
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.csproj.CoreCompileInputs.cache
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.dll
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.pdb
+D:\Ellie\Methods-Exercise\05. AddandSubtract\obj\Debug\netcoreapp3.1\05. AddandSubtract.genruntimeconfig.cache

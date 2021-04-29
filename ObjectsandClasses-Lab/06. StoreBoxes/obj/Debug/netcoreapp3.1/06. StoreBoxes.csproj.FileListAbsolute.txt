@@ -1,0 +1,13 @@
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\bin\Debug\netcoreapp3.1\06. StoreBoxes.exe
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\bin\Debug\netcoreapp3.1\06. StoreBoxes.deps.json
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\bin\Debug\netcoreapp3.1\06. StoreBoxes.runtimeconfig.json
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\bin\Debug\netcoreapp3.1\06. StoreBoxes.runtimeconfig.dev.json
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\bin\Debug\netcoreapp3.1\06. StoreBoxes.dll
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\bin\Debug\netcoreapp3.1\06. StoreBoxes.pdb
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.csprojAssemblyReference.cache
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.AssemblyInfoInputs.cache
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.AssemblyInfo.cs
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.csproj.CoreCompileInputs.cache
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.dll
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.pdb
+D:\Ellie\ObjectsandClasses-Lab\06. StoreBoxes\obj\Debug\netcoreapp3.1\06. StoreBoxes.genruntimeconfig.cache

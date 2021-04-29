@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.exe
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.deps.json
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.runtimeconfig.json
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.dll
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.pdb
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.dll
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.pdb
+D:\Ellie\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01. SumAdjacentEqualNumbers.genruntimeconfig.cache

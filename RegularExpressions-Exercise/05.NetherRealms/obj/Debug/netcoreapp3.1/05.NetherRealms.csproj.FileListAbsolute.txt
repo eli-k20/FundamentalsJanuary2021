@@ -1,0 +1,13 @@
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csprojAssemblyReference.cache
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfoInputs.cache
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfo.cs
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.CoreCompileInputs.cache
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.exe
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.deps.json
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.json
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.dev.json
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.dll
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.pdb
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.dll
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.pdb
+D:\Ellie\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.genruntimeconfig.cache

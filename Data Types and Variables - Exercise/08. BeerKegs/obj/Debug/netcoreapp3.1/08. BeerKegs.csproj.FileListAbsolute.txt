@@ -1,0 +1,12 @@
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.exe
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.deps.json
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.dll
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.pdb
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.dll
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.pdb
+D:\Ellie\Data Types and Variables - Exercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.exe
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.deps.json
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.runtimeconfig.json
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.runtimeconfig.dev.json
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.dll
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.pdb
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.csprojAssemblyReference.cache
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.AssemblyInfoInputs.cache
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.AssemblyInfo.cs
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.csproj.CoreCompileInputs.cache
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.dll
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.pdb
+D:\Ellie\04.ProgrammingFundamentalsMidExam\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.genruntimeconfig.cache

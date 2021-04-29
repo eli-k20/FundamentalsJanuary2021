@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+D:\Ellie\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+D:\Ellie\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+D:\Ellie\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+D:\Ellie\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+D:\Ellie\Lists - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csprojAssemblyReference.cache
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
+D:\Ellie\Lists - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache

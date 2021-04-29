@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\bin\Debug\netcoreapp3.1\04. SumofChars.exe
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\bin\Debug\netcoreapp3.1\04. SumofChars.deps.json
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\bin\Debug\netcoreapp3.1\04. SumofChars.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\bin\Debug\netcoreapp3.1\04. SumofChars.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\bin\Debug\netcoreapp3.1\04. SumofChars.dll
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\bin\Debug\netcoreapp3.1\04. SumofChars.pdb
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.dll
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.pdb
+D:\Ellie\Data Types and Variables - Exercise\04. SumofChars\obj\Debug\netcoreapp3.1\04. SumofChars.genruntimeconfig.cache

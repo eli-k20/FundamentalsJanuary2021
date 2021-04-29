@@ -1,0 +1,13 @@
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csprojAssemblyReference.cache
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb
+D:\Ellie\TextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.genruntimeconfig.cache

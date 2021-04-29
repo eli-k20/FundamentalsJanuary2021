@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.exe
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.deps.json
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.dll
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.pdb
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.dll
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.pdb
+D:\Ellie\AssociativeArrays-Exercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.genruntimeconfig.cache

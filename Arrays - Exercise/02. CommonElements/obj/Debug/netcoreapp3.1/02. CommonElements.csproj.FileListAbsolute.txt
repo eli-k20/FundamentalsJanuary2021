@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Exercise\02. CommonElements\bin\Debug\netcoreapp3.1\02. CommonElements.exe
+D:\Ellie\Arrays - Exercise\02. CommonElements\bin\Debug\netcoreapp3.1\02. CommonElements.deps.json
+D:\Ellie\Arrays - Exercise\02. CommonElements\bin\Debug\netcoreapp3.1\02. CommonElements.runtimeconfig.json
+D:\Ellie\Arrays - Exercise\02. CommonElements\bin\Debug\netcoreapp3.1\02. CommonElements.runtimeconfig.dev.json
+D:\Ellie\Arrays - Exercise\02. CommonElements\bin\Debug\netcoreapp3.1\02. CommonElements.dll
+D:\Ellie\Arrays - Exercise\02. CommonElements\bin\Debug\netcoreapp3.1\02. CommonElements.pdb
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.AssemblyInfo.cs
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.dll
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.pdb
+D:\Ellie\Arrays - Exercise\02. CommonElements\obj\Debug\netcoreapp3.1\02. CommonElements.genruntimeconfig.cache

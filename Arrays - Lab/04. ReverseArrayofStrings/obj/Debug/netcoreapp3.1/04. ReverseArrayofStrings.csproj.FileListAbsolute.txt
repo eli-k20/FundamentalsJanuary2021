@@ -1,0 +1,12 @@
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayofStrings.exe
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayofStrings.deps.json
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayofStrings.runtimeconfig.json
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayofStrings.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayofStrings.dll
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayofStrings.pdb
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayofStrings.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayofStrings.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayofStrings.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayofStrings.dll
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayofStrings.pdb
+D:\Ellie\Arrays - Lab\04. ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayofStrings.genruntimeconfig.cache

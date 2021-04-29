@@ -1,0 +1,13 @@
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.exe
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.deps.json
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.json
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.dev.json
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csprojAssemblyReference.cache
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfo.cs
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+D:\Ellie\ObjectsandClasses-Exercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.genruntimeconfig.cache

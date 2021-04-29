@@ -1,0 +1,13 @@
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.exe
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.deps.json
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.runtimeconfig.json
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.runtimeconfig.dev.json
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.dll
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\bin\Debug\netcoreapp3.1\02. TheLift.pdb
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.csprojAssemblyReference.cache
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.AssemblyInfoInputs.cache
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.AssemblyInfo.cs
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.csproj.CoreCompileInputs.cache
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.dll
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.pdb
+D:\Ellie\01.MidExamRetakeExercising\02. TheLift\obj\Debug\netcoreapp3.1\02. TheLift.genruntimeconfig.cache

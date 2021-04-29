@@ -1,0 +1,12 @@
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.exe
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.deps.json
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.runtimeconfig.json
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.runtimeconfig.dev.json
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.dll
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.pdb
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.AssemblyInfoInputs.cache
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.AssemblyInfo.cs
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.csproj.CoreCompileInputs.cache
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.dll
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.pdb
+D:\Ellie\ObjectsandClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.genruntimeconfig.cache

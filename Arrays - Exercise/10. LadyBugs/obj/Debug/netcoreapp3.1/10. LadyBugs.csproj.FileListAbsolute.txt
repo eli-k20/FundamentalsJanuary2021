@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+D:\Ellie\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+D:\Ellie\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+D:\Ellie\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+D:\Ellie\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+D:\Ellie\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb
+D:\Ellie\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.genruntimeconfig.cache

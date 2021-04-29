@@ -1,0 +1,13 @@
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.exe
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.deps.json
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.json
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.dev.json
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csprojAssemblyReference.cache
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfoInputs.cache
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfo.cs
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csproj.CoreCompileInputs.cache
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+D:\Ellie\05.ProgrammingFundamentalsMidExam\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.exe
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.deps.json
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.json
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.dev.json
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.dll
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csprojAssemblyReference.cache
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfoInputs.cache
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfo.cs
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csproj.CoreCompileInputs.cache
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.dll
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+D:\Ellie\02.ProgrammingFundamentalsMidExam\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.genruntimeconfig.cache

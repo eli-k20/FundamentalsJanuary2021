@@ -1,0 +1,13 @@
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.exe
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.deps.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.runtimeconfig.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.runtimeconfig.dev.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.dll
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.pdb
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.csprojAssemblyReference.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.AssemblyInfoInputs.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.AssemblyInfo.cs
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.csproj.CoreCompileInputs.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.dll
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.pdb
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.genruntimeconfig.cache

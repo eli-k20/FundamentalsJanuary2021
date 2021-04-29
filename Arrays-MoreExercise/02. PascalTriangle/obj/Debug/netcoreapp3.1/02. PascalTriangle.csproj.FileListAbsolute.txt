@@ -1,0 +1,13 @@
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\bin\Debug\netcoreapp3.1\02. PascalTriangle.exe
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\bin\Debug\netcoreapp3.1\02. PascalTriangle.deps.json
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\bin\Debug\netcoreapp3.1\02. PascalTriangle.runtimeconfig.json
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\bin\Debug\netcoreapp3.1\02. PascalTriangle.runtimeconfig.dev.json
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\bin\Debug\netcoreapp3.1\02. PascalTriangle.dll
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\bin\Debug\netcoreapp3.1\02. PascalTriangle.pdb
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.csprojAssemblyReference.cache
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.AssemblyInfoInputs.cache
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.AssemblyInfo.cs
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.dll
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.pdb
+D:\Ellie\Arrays-MoreExercise\02. PascalTriangle\obj\Debug\netcoreapp3.1\02. PascalTriangle.genruntimeconfig.cache

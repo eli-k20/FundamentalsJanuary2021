@@ -1,0 +1,12 @@
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\bin\Debug\netcoreapp3.1\10. PokeMon.exe
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\bin\Debug\netcoreapp3.1\10. PokeMon.deps.json
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\bin\Debug\netcoreapp3.1\10. PokeMon.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\bin\Debug\netcoreapp3.1\10. PokeMon.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\bin\Debug\netcoreapp3.1\10. PokeMon.dll
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\bin\Debug\netcoreapp3.1\10. PokeMon.pdb
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\obj\Debug\netcoreapp3.1\10. PokeMon.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\obj\Debug\netcoreapp3.1\10. PokeMon.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\obj\Debug\netcoreapp3.1\10. PokeMon.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\obj\Debug\netcoreapp3.1\10. PokeMon.dll
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\obj\Debug\netcoreapp3.1\10. PokeMon.pdb
+D:\Ellie\Data Types and Variables - Exercise\10. PokeMon\obj\Debug\netcoreapp3.1\10. PokeMon.genruntimeconfig.cache

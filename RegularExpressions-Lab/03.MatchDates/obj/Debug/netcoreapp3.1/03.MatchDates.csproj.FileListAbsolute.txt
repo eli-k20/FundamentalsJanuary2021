@@ -1,0 +1,13 @@
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.exe
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.deps.json
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.runtimeconfig.json
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.runtimeconfig.dev.json
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.dll
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\bin\Debug\netcoreapp3.1\03.MatchDates.pdb
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.csprojAssemblyReference.cache
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.AssemblyInfoInputs.cache
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.AssemblyInfo.cs
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.dll
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.pdb
+D:\Ellie\RegularExpressions-Lab\03.MatchDates\obj\Debug\netcoreapp3.1\03.MatchDates.genruntimeconfig.cache

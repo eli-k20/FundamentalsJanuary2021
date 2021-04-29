@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.exe
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.deps.json
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.dll
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.pdb
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.dll
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.pdb
+D:\Ellie\AssociativeArrays-Exercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.genruntimeconfig.cache

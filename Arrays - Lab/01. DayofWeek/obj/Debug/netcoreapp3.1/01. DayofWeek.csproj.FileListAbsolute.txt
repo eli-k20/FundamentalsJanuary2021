@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Lab\01. DayofWeek\bin\Debug\netcoreapp3.1\01. DayofWeek.exe
+D:\Ellie\Arrays - Lab\01. DayofWeek\bin\Debug\netcoreapp3.1\01. DayofWeek.deps.json
+D:\Ellie\Arrays - Lab\01. DayofWeek\bin\Debug\netcoreapp3.1\01. DayofWeek.runtimeconfig.json
+D:\Ellie\Arrays - Lab\01. DayofWeek\bin\Debug\netcoreapp3.1\01. DayofWeek.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\01. DayofWeek\bin\Debug\netcoreapp3.1\01. DayofWeek.dll
+D:\Ellie\Arrays - Lab\01. DayofWeek\bin\Debug\netcoreapp3.1\01. DayofWeek.pdb
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.dll
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.pdb
+D:\Ellie\Arrays - Lab\01. DayofWeek\obj\Debug\netcoreapp3.1\01. DayofWeek.genruntimeconfig.cache

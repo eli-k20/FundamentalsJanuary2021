@@ -1,0 +1,13 @@
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.exe
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.deps.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.runtimeconfig.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.runtimeconfig.dev.json
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.dll
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\bin\Debug\netcoreapp3.1\BlackFlag.pdb
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.csprojAssemblyReference.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.AssemblyInfoInputs.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.AssemblyInfo.cs
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.csproj.CoreCompileInputs.cache
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.dll
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.pdb
+D:\Ellie\ProgrammingFundamentalsMidExamRetake-6\BlackFlag\obj\Debug\netcoreapp3.1\BlackFlag.genruntimeconfig.cache

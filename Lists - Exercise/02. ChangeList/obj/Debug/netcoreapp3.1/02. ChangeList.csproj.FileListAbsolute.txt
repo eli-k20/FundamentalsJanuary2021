@@ -1,0 +1,13 @@
+D:\Ellie\Lists - Exercise\02. ChangeList\bin\Debug\netcoreapp3.1\02. ChangeList.exe
+D:\Ellie\Lists - Exercise\02. ChangeList\bin\Debug\netcoreapp3.1\02. ChangeList.deps.json
+D:\Ellie\Lists - Exercise\02. ChangeList\bin\Debug\netcoreapp3.1\02. ChangeList.runtimeconfig.json
+D:\Ellie\Lists - Exercise\02. ChangeList\bin\Debug\netcoreapp3.1\02. ChangeList.runtimeconfig.dev.json
+D:\Ellie\Lists - Exercise\02. ChangeList\bin\Debug\netcoreapp3.1\02. ChangeList.dll
+D:\Ellie\Lists - Exercise\02. ChangeList\bin\Debug\netcoreapp3.1\02. ChangeList.pdb
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.csprojAssemblyReference.cache
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.AssemblyInfoInputs.cache
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.AssemblyInfo.cs
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.csproj.CoreCompileInputs.cache
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.dll
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.pdb
+D:\Ellie\Lists - Exercise\02. ChangeList\obj\Debug\netcoreapp3.1\02. ChangeList.genruntimeconfig.cache

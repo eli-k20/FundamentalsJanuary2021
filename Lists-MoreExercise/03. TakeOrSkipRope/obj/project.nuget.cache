@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrVMCBHY80wc8JmlGeXdlmdb0tcuU4XslFKBClOovh0PXwG/aLKEGIo82YfznJwAj+NQT5U2zvibwEPzSJrBTA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Eli\\Desktop\\Ellie\\Fundamentals\\Lists-MoreExercise\\03. TakeOrSkipRope\\03. TakeOrSkipRope.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Eli\\Desktop\\Ellie\\Fundamentals\\Lists-MoreExercise\\2.CarRace\\02.CarRace.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Eli\\Desktop\\Ellie\\Fundamentals\\Lists-MoreExercise\\2.CarRace\\02.CarRace.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

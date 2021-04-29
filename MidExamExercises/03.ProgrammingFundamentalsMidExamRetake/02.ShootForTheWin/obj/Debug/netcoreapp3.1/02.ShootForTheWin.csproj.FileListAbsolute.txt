@@ -1,0 +1,13 @@
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.exe
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.deps.json
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.json
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.dev.json
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csprojAssemblyReference.cache
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfoInputs.cache
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfo.cs
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\Ellie\03.ProgrammingFundamentalsMidExamRetake\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.genruntimeconfig.cache

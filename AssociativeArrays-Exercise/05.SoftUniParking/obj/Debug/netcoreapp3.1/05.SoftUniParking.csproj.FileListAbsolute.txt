@@ -1,0 +1,13 @@
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\bin\Debug\netcoreapp3.1\05.SoftUniParking.exe
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\bin\Debug\netcoreapp3.1\05.SoftUniParking.deps.json
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\bin\Debug\netcoreapp3.1\05.SoftUniParking.runtimeconfig.json
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\bin\Debug\netcoreapp3.1\05.SoftUniParking.runtimeconfig.dev.json
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\bin\Debug\netcoreapp3.1\05.SoftUniParking.dll
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\bin\Debug\netcoreapp3.1\05.SoftUniParking.pdb
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.csprojAssemblyReference.cache
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.AssemblyInfoInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.AssemblyInfo.cs
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.dll
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.pdb
+D:\Ellie\AssociativeArrays-Exercise\05.SoftUniParking\obj\Debug\netcoreapp3.1\05.SoftUniParking.genruntimeconfig.cache

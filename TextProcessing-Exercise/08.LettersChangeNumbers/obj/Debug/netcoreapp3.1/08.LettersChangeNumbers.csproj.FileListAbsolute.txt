@@ -1,0 +1,12 @@
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.exe
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.deps.json
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.runtimeconfig.json
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.runtimeconfig.dev.json
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.dll
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.pdb
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.AssemblyInfo.cs
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.dll
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.pdb
+D:\Ellie\TextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.genruntimeconfig.cache

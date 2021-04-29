@@ -1,0 +1,13 @@
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.exe
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.deps.json
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.runtimeconfig.json
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.dll
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.pdb
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.csprojAssemblyReference.cache
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.dll
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.pdb
+D:\Ellie\Arrays - Lab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.genruntimeconfig.cache

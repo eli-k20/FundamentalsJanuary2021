@@ -1,0 +1,12 @@
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp3.1\05. SumEvenNumbers.exe
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp3.1\05. SumEvenNumbers.deps.json
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp3.1\05. SumEvenNumbers.runtimeconfig.json
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp3.1\05. SumEvenNumbers.runtimeconfig.dev.json
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp3.1\05. SumEvenNumbers.dll
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp3.1\05. SumEvenNumbers.pdb
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp3.1\05. SumEvenNumbers.AssemblyInfoInputs.cache
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp3.1\05. SumEvenNumbers.AssemblyInfo.cs
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp3.1\05. SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp3.1\05. SumEvenNumbers.dll
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp3.1\05. SumEvenNumbers.pdb
+D:\Ellie\Arrays - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp3.1\05. SumEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\bin\Debug\netcoreapp3.1\11. ArrayManipulator.exe
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\bin\Debug\netcoreapp3.1\11. ArrayManipulator.deps.json
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\bin\Debug\netcoreapp3.1\11. ArrayManipulator.runtimeconfig.json
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\bin\Debug\netcoreapp3.1\11. ArrayManipulator.runtimeconfig.dev.json
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\bin\Debug\netcoreapp3.1\11. ArrayManipulator.dll
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\bin\Debug\netcoreapp3.1\11. ArrayManipulator.pdb
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.csprojAssemblyReference.cache
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.AssemblyInfoInputs.cache
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.AssemblyInfo.cs
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.dll
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.pdb
+D:\Ellie\Methods-Exercise\11. ArrayManipulator\obj\Debug\netcoreapp3.1\11. ArrayManipulator.genruntimeconfig.cache

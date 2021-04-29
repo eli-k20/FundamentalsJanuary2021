@@ -1,0 +1,13 @@
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.exe
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.deps.json
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.runtimeconfig.json
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.runtimeconfig.dev.json
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.dll
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.pdb
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.csprojAssemblyReference.cache
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.AssemblyInfo.cs
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.dll
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.pdb
+D:\Ellie\Data Types and Variables - Exercise\05. PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05. PrintPartOfASCIITable.genruntimeconfig.cache
